@@ -1,0 +1,4 @@
+build:
+  (description): Generate auto-generated code
+  (scripts):
+    - fvm dart run build_runner build --delete-conflicting-outputs
