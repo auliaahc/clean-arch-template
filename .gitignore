@@ -45,4 +45,8 @@ app.*.map.json
 /android/app/release
 
 # Auto-generated code
-*freezed*
+*.freezed.*
+*.g.*
+
+# Environment Variable related
+.env
